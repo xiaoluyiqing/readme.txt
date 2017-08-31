@@ -1,3 +1,2 @@
 # readme.txt
-test
 nice!
